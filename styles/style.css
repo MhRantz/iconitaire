@@ -55,3 +55,9 @@ table {
 h1 {
   color: red;
 }
+
+.hand {
+  background-color: blue;
+  height: 80vh;
+  width: 100%;
+}
